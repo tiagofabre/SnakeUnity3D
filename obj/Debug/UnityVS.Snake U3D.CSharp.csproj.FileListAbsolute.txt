@@ -1,0 +1,11 @@
+C:\Projetos\Snake U3D\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+C:\Projetos\Snake U3D\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+C:\Projetos\Snake U3D\Temp\UnityVS_bin\Debug\UnityEditor.dll
+C:\Projetos\Snake U3D\Temp\UnityVS_bin\Debug\UnityEngine.dll
+C:\Projetos\Snake U3D\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+C:\Projetos\Snake U3D\Temp\UnityVS_bin\Debug\UnityEngine.xml
+C:\Projetos\Snake U3D\Temp\UnityVS_bin\Debug\UnityEditor.xml
+C:\Projetos\Snake U3D\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+C:\Projetos\Snake U3D\obj\Debug\UnityVS.Snake U3D.CSharp.csprojResolveAssemblyReference.cache
+C:\Projetos\Snake U3D\obj\Debug\Assembly-CSharp.dll
+C:\Projetos\Snake U3D\obj\Debug\Assembly-CSharp.pdb
